@@ -11,4 +11,7 @@
     <string name="cancel">Cancel</string>
     <string name="permission_alert">Permission Alert</string>
     <string name="photos_and_videos">You have to allow photos and videos permission or Storage permission!. Kindly allow...</string>
+    <string name="manage">Manage</string>
+    <string name="select_more_media">Select more media</string>
+    <string name="change_settings">Change settings</string>
 </resources>
